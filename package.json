@@ -20,7 +20,7 @@
     "zombie": "^6.1.4"
   },
   "engines": {
-    "node": "4.4.3"
+    "node": "10.16.0"
   },
   "repository": {
     "type": "git",
